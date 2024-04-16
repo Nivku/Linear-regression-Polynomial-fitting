@@ -7,12 +7,16 @@ and gain insights into feature selection and model performance.
 
 ### Project Scope
 
-The tasks encompass several key objectives:
+####The tasks encompass several key objectives:
 
 ∙ Implementation of linear & polynomial regression models components as specified.
+
 ∙ Data preprocessing and exploration to handle noise, missing values, and feature engineering.
+
 ∙ Feature selection and evaluation to identify relevant predictors for the target variable.
+
 ∙ Model training, evaluation, and comparison across different subsets of the dataset.
+
 ∙ Analysis of model performance variations, including the impact of polynomial degree and training-test split.
 
 
