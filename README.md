@@ -7,7 +7,7 @@ and gain insights into feature selection and model performance.
 
 ### Project Scope
 
-####The tasks encompass several key objectives:
+###The tasks encompass several key objectives:
 
 ∙ Implementation of linear & polynomial regression models components as specified.
 
