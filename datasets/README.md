@@ -19,26 +19,8 @@ The tasks encompass several key objectives:
 ## Usage Examples
 #### Linear regression analyzing
 
-![Alt Text](Examples/grade_Price_cor.png)
-
-![Alt Text](Examples/sqft_living15_Price_cor.png)
-
-![Alt Text](Examples/mse_precentage.png)
-
-
-
-
-
+![Alt Text](Examples/translation-output-example.gif)
 
 #### polynomial fitting analyzing
 
 ![Alt Text](Examples/daily_temp_in_israel.png)
-
-
-![Alt Text](Examples/std_of_temp_over_years_in_israel.png)
-
-![Alt Text](Examples/average_temp_for_countries.png)
-
-![Alt Text](Examples/mse_over_k.png)
-
-
